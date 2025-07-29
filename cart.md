@@ -4,6 +4,7 @@
 
 ## Speedpaints 2.0
 
+- Algae Green
 - Blood Red ou Burnished Red
 - Dark Wood
 - Ghillie Dew
@@ -11,4 +12,8 @@
 - Holy White
 - Magic Blue
 - Malignant Green
+- Runic Grey
 - Sand Golem
+- Shamrock Green
+
+Count: 11
