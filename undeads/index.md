@@ -1,4 +1,4 @@
-# Monstrosities
+# Undeads
 
 [‹ Back](../README.md)
 
@@ -8,5 +8,7 @@
 - [Fext](fext/index.md)
 - [Ghast](ghast/index.md)
 - [Ghost](ghost/index.md)
+- [Nihileth](nihileth/index.md)
 - [Revenant](revenant/index.md)
 - [Vaettir](vaettir/index.md)
+- [Wraith](wraith/index.md)
