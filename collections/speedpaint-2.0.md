@@ -2,114 +2,116 @@
 
 [‹ Back](index.md)
 
-Total: 36 / 79 (46%)
+[Filtered List](https://thearmypainter.com/collections/speedpaint)
 
-## Black, Grey & White (6/8 | 75%)
+Total: 56 / 79 (71%)
+
+## Black, Grey & White (8/8 | 100%)
 
 - (✅) Ashen Stone
 - (✅) Battleship Grey
 - (✅) Blinding Light
 - (✅) Gravelord Grey
 - (✅) Grim Black
-- ( ) Holy White
+- (✅) Holy White
 - (✅) Occultist Cloak
-- ( ) Runic Grey
+- (✅) Runic Grey
 
-## Blue (4/8 | 50%)
+## Blue (6/8 | 75%)
 
 - (✅) Beowulf Blue
 - ( ) Cloudburst Blue
-- ( ) Highlord Blue
-- ( ) Magic Blue
+- (✅) Highlord Blue
+- (✅) Magic Blue
 - ( ) Pastel Indigo
 - (✅) Royal Robes
 - (✅) Tidal Wave
 - (✅) Tyrian Navy
 
-## Brown (4/7 | 57%)
+## Brown (7/7 | 100%)
 
 - (✅) Bony Matter
 - (✅) Brownish Decay
-- ( ) Dark Wood
-- ( ) Hardened Leather
+- (✅) Dark Wood
+- (✅) Hardened Leather
 - (✅) Ruddy Fur
-- ( ) Sand Golem
+- (✅) Sand Golem
 - (✅) Satchel Brown
 
-## Green (4/9 | 44%)
+## Green (7/9 | 78%)
 
 - (✅) Absolution Green
-- ( ) Burnt Moss
+- (✅) Burnt Moss
 - ( ) Camo Cloak
 - (✅) Forest Sprite
 - (✅) Ghoul Green
-- ( ) Ghillie Dew
+- (✅) Ghillie Dew
 - ( ) Gunner Camo
 - (✅) Orc Skin
-- ( ) Shamrock Green
+- (✅) Shamrock Green
 
-## Olive (1/5 | 20%)
+## Olive (2/5 | 40%)
 
 - ( ) Algae Green
 - (✅) Desolate Brown
-- ( ) Malignant Green
+- (✅) Malignant Green
 - ( ) Mummified Grime
 - ( ) Rigor Mortis
 
-## Orange (1/4 | 25%)
+## Orange (2/4 | 50%)
 
 - ( ) Fire Drake
-- ( ) Fire Giant Orange
+- (✅) Fire Giant Orange
 - (✅) Nuclear Sunrise
 - ( ) Pastel Salmon
 
-## Pink (1/4 | 25%)
+## Pink (2/4 | 50%)
 
 - ( ) Carmine Dragon
 - ( ) Familiar Pink
 - (✅) Princess Pink
-- ( ) Purple Alchemy
+- (✅) Purple Alchemy
 
-## Purple (5/7 | 71%)
+## Purple (7/7 | 100%)
 
-- ( ) Hive Dweller Purple
+- (✅) Hive Dweller Purple
 - (✅) Moody Mauve
 - (✅) Moonlake Coral
 - (✅) Murder Scene
-- ( ) Pastel Lavender
+- (✅) Pastel Lavender
 - (✅) Periwinkle Purple
 - (✅) Purple Swarm
 
-## Red (3/6 | 50%)
+## Red (4/6 | 67%)
 
 - ( ) Blood Red
 - (✅) Bright Red
 - ( ) Burnished Red
-- ( ) Dusk Red
+- (✅) Dusk Red
 - (✅) Poppy Red
 - (✅) Slaughter Red
 
-## Skin Tone (2/6 | 33%)
+## Skin Tone (6/6 | 67%)
 
 - ( ) Aged Hide
-- ( ) Crusader Skin
+- (✅) Crusader Skin
 - ( ) Goddess Glow
 - (✅) Noble Skin
 - (✅) Peachy Flesh
-- ( ) Warrior Skin
+- (✅) Warrior Skin
 
-## Turquoise (1/6 | 17%)
+## Turquoise (2/6 | 33%)
 
 - ( ) Caribbean Ocean
-- ( ) Lizardfolk Cyan
+- (✅) Lizardfolk Cyan
 - ( ) Pastel Seafoam
 - (✅) Plasmatic Bolt
 - ( ) Raging Sea
 - ( ) Thunderbird Blue
 
-## Yellow (4/9 | 44%)
+## Yellow (5/9 | 56%)
 
-- ( ) Ancient Honey
+- (✅) Ancient Honey
 - (✅) Charming Chartreuse
 - ( ) Howling Sand
 - ( ) Maize Yellow
@@ -118,13 +120,3 @@ Total: 36 / 79 (46%)
 - (✅) Pallid Bone
 - ( ) Pastel Yellow
 - (✅) Zealot Yellow
-
-## Priority List (ChatGPT)
-
-- Hardened Leather
-- Hive Dweller Purple
-- Holy White
-- Magic Blue
-- Malignant Green
-- Runic Grey
-- Sand Golem
