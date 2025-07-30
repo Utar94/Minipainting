@@ -3,6 +3,7 @@
 [‹ Back](../README.md)
 
 - [Bugbear](bugbear/index.md)
+- [Bullywug](bullywug/index.md)
 - [Floating Witch](floating-witch/index.md)
 - [Goblin](goblin/index.md)
 - [Hobgoblin](hobgoblin/index.md)
