@@ -1,0 +1,23 @@
+{
+  "name": "minipainting",
+  "version": "1.0.0",
+  "description": "Notes for miniature painting.",
+  "homepage": "https://github.com/Utar94/Minipainting#readme",
+  "bugs": {
+    "url": "https://github.com/Utar94/Minipainting/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Utar94/Minipainting.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write ./"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
