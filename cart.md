@@ -10,10 +10,11 @@
 - Ghillie Dew
 - Hardened Leather
 - Holy White
+- Lizardfolk Cyan
 - Magic Blue
 - Malignant Green
 - Runic Grey
 - Sand Golem
 - Shamrock Green
 
-Count: 11
+Count: 12
